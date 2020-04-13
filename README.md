@@ -4,9 +4,9 @@
 
 2.npm 导入
 
-npm install base62-yf
+npm install @abel0222/base62
 
-import { Base62 } from 'base62-yf';
+import { Base62 } from '@abel0222/base62';
 
 3.使用：
 
